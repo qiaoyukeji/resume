@@ -33,7 +33,7 @@
 项目的参考链接：[http://qiaoyukeji.gitee.io/uniapp_mall_project/](http://qiaoyukeji.gitee.io/uniapp_mall_project/)
 本项目采用uniapp 框架使用vue 语法进行开发。通过本次项目，本人了解到了 uniapp 的基本使用和手机小程序的开发流程，提高了移动端的开发和布局，加深了组件传值的使用，巩固了 vue 的使用。
 
-###个人奖项及技能证书
+### 个人奖项及技能证书
 - 计算机技术与软件专业技术资格考试（软考）中级网络工程师
 - 阿里云Clouder云计算专项技能认证证书
 - 2019安徽省大学生程序设计大赛二等奖
